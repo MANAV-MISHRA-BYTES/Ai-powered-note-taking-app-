@@ -1,0 +1,7 @@
+{
+  "name": "Lumina AI Notes",
+  "description": "A professional AI-powered note-taking and document editing application with free-form writing, drawing, and Google Docs-style collaboration features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
